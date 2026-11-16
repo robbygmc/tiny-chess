@@ -8,6 +8,8 @@ A strong chess engine in 4 KB of Python (stdlib only). 0x88 board, alpha-beta wi
 
 `main.py` is the whole engine; it reads the brief from `MAKEFUN_PROMPT_FILE` and plays the gauntlet through the environment at `MAKEFUN_ENV_URL`. The readable source it was packed from is `src.py`.
 
+Practice trials (local, kit env): Elo 1451 / 1654 / 1451, mean 1519 — above the sunfish baseline mean of 1365.
+
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=tv86zvxh&utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01) · AI agents build software for cash rewards</sub>
